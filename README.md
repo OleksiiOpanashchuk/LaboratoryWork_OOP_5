@@ -3,10 +3,10 @@
 # Discription
 
 This project includes the following tasks:
-1.	Create a method that calculates and returns the area of a square.
-2.	Create a method that takes three numbers, prints and returns the smallest.
-3.	Create a method that outputs an array.
-4.	Create a method that returns the largest number from the array.
+- Create a method that calculates and returns the area of a square.
+- Create a method that takes three numbers, prints and returns the smallest.
+- Create a method that outputs an array.
+- Create a method that returns the largest number from the array.
 
 # Requirements.
 To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
@@ -32,7 +32,4 @@ Task3 (ArrayPrinter): <br>
 Task4 (Array): <br>
 
 ![LaboratoryWork_OOP_5 – Square java 07 05 2023 11_42_39](https://user-images.githubusercontent.com/132139593/236667546-6c7eb84e-dbc8-433c-abea-ac604efcc509.png)
-
-
-
 
